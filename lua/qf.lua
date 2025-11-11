@@ -90,6 +90,8 @@ local post_commands = {
   "cbuffer",
   "cgetbuffer",
   "caddbuffer",
+  "helpgrep",
+  "lhelpgrep",
 }
 
 local function list_post_commands(l)
